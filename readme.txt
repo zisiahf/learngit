@@ -12,3 +12,6 @@ today i feel boring and learn nothing
 
 
 this is the dev branch
+
+
+Creating a new branch is quick AND simple.
